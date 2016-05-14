@@ -1,4 +1,4 @@
 btc:
    rpc:
-      username:myusername
-      password:really
+      username: myusername
+      password: really
